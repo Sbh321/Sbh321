@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Sbh321/Sbh321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning: MERN stack
+- 👯 I’m looking to collaborate on: Full Stack projects
+- 🤔 I’m looking for help with: Node.js, Express.js
+- 💬 Ask me about: Full Stack Development, Anime
+- 📫 Reach me out on: LinkedIn
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
+## Skills
+- Programming Languages: C, Java, JavaScript, PHP
+- Technologies: SQL Server, React, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+- LinkedIn: [Click me!](https://www.linkedin.com/in/subham-bhandari/)
+
+Feel free to reach out! I'm always open to interesting conversations and collaborations.

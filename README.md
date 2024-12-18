@@ -9,7 +9,7 @@
 
 ## Skills
 - Programming Languages: C, Java, JavaScript, PHP
-- Technologies: MySql, React, Node, Express, Laravel
+- Technologies: MySql, MongoDB React, Node, Express, Laravel, Vue, Nuxt, Quasar
 
 ## Get in Touch
 - LinkedIn: [Click me!](https://www.linkedin.com/in/subham-bhandari/)

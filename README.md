@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning: MERN stack
 - 👯 I’m looking to collaborate on: Full Stack projects
-- 🤔 I’m looking for help with: Node.js, Express.js
+- 🤔 I’m looking for help with: Node.js, Express.js, Laravel, React
 - 💬 Ask me about: Full Stack Development, Anime
 - 📫 Reach me out on: LinkedIn
 - 😄 Pronouns: he/him
